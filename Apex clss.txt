@@ -1,6 +1,0 @@
-Public class testClass{
-
-string variableName ='master';
-
-
-}
