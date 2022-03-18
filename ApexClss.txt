@@ -1,6 +1,9 @@
 Public class testClass{
 
-string variableName ='User1';
 
+string variableName ='User2';
+
+string variableName ='User1';
+ 
 
 }
