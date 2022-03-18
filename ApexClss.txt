@@ -1,6 +1,6 @@
 Public class testClass{
 
-string variableName ='master';
+string variableName ='User2';
 
 
 }
